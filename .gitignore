@@ -1,3 +1,7 @@
+# vscode
+.vscode/
+
 # Build Results
 **/bin/
 **/obj/
+
