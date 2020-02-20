@@ -1,0 +1,8 @@
+https://www.sqlite.org/download.html
+Precompiled Binaries for Windows
+tools
+
+extract C:/sqlite
+add to PATH
+
+sqlite3 Northwind.db < Northwind.sql
